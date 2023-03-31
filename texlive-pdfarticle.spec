@@ -1,6 +1,6 @@
 Name:		texlive-pdfarticle
 Version:	51127
-Release:	1
+Release:	2
 Summary:	Class for pdf publications
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfarticle
