@@ -3,7 +3,7 @@ Version:	51127
 Release:	2
 Summary:	Class for pdf publications
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfarticle
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pdfarticle
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfarticle.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfarticle.doc.r%{version}.tar.xz
